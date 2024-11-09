@@ -1,0 +1,12 @@
+fast_api/.env
+fast_api/venv
+venv
+.idea
+docker-compose.yml
+*.pyc
+__pycache__
+__pycache__/
+nohup.out
+fast_api/logs
+/.env
+/config.py
